@@ -45,5 +45,4 @@ REDDIT_PASSWORD is the password associated with your Reddit account username
 ## Data storage:
 
 The sample outputs for this program can be accessed through: <br>
-   a. https://ipfs.io/ipns/k51qzi5uqu5djowguef2ypze1wdrdr6wwpg18i2wh6vpaod6454qye9nd6jb31/generic_dataset.csv <br>
-   b. https://ipfs.io/ipns/k51qzi5uqu5djowguef2ypze1wdrdr6wwpg18i2wh6vpaod6454qye9nd6jb31/tech_dataset.csv
+   https://ipfs.io/ipfs/QmesvXBeYPxcqYKrGUsh1zmWoVFHv3FHRWWmBhzx9YhBEE/
