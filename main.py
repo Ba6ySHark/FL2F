@@ -51,7 +51,7 @@ last_viewed_post = ""
 
 #  The free version of Reddit API only allows users to send not more than 100 requests per minute
 #  Therefore, I have included a time.sleep(60) statement at the end of the loop
-#  The loop will run 10 times, which will result in 10*100 = 1000 results 
+#  The loop will run 10 times, which will result in 15*100 = 1500 results 
 for i in range(15):
     # GET request to Reddit API that asks for the newest 100 posts after the latest_viewed_post
     res = requests.get("https://oauth.reddit.com/r/Entrepreneur/new", headers=headers, params={"limit": "100", "after": last_viewed_post})
