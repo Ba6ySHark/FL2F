@@ -41,3 +41,9 @@ REDDIT_USERNAME is your Reddit account username &
 REDDIT_PASSWORD is the password associated with your Reddit account username
 
 3. I am storing the results in .csv format, which does not carry any formatting information (since it is a plain-text file). Because of this the width of the columns has to be adjusted manually each time you open the file.
+
+## Data storage:
+
+The sample outputs for this program can be accessed through: <br>
+   a. https://ipfs.io/ipns/k51qzi5uqu5djowguef2ypze1wdrdr6wwpg18i2wh6vpaod6454qye9nd6jb31/generic_dataset.csv <br>
+   b. https://ipfs.io/ipns/k51qzi5uqu5djowguef2ypze1wdrdr6wwpg18i2wh6vpaod6454qye9nd6jb31/tech_dataset.csv
