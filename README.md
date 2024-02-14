@@ -39,3 +39,5 @@ All the source code is written in python and can be found at main.py file.
 
 REDDIT_USERNAME is your Reddit account username &
 REDDIT_PASSWORD is the password associated with your Reddit account username
+
+3. I am storing the results in .csv format, which does not carry any formatting information (since it is a plain-text file). Because of this the width of the columns has to be adjusted manually each time you open the file.
