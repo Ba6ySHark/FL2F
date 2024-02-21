@@ -22,7 +22,7 @@ All the source code is written in python and can be found at main.py file.
    activate
    ```
    
-4. Install the required pachages
+4. Install the required packages
    ```bash
    pip install -r requirements.txt
    ```
